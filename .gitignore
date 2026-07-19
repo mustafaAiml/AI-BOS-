@@ -1,0 +1,39 @@
+﻿# Environment Files
+.env
+.env.*
+
+# Secrets Folder
+secrets/
+
+# Firebase
+firebase.json
+service-account.json
+google-services.json
+
+# Android Signing
+*.jks
+*.keystore
+key.properties
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+ios/.symlinks/
+android/.gradle/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
